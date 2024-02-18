@@ -23,6 +23,8 @@ http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=239078&ex
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=79473&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 9
 http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=79476&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 10
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2591&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", MANCHASTER UNITED LIVE
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1757338&extension=ts
 
