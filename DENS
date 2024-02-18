@@ -5,6 +5,26 @@ https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦SUPPORT ADMIN♦#####", LINK SAWER https://saweria.co/Inaldie22
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 1
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=1110622&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 2
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=144412&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 3
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=355925&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 4
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=833281&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 5
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=1032471&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 6
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=918984&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 7
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=239078&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 8
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=79473&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 9
+http://line.iptvhunt.com:80/play/live.php?mac=00:1A:79:3B:8F:38&stream=79476&extension=ts
+
+
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YmZlN2E3Y2YtODY2NC0zNWZjLWI3MzUtYjY0Y2MxYzZjNTJj
