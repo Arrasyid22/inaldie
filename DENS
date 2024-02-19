@@ -1156,3 +1156,30 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=207963&extensi
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=207964&extension=ts
 
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSM_Bj8MJNJ0gnZ5DuevIkYfD9DqHBNCqb1w&usqp=CAU" group-title="SPORT DUNIA",Sony Ten Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSM_Bj8MJNJ0gnZ5DuevIkYfD9DqHBNCqb1w&usqp=CAU" group-title="SPORT DUNIA",Sony Ten Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSM_Bj8MJNJ0gnZ5DuevIkYfD9DqHBNCqb1w&usqp=CAU" group-title="SPORT DUNIA",Sony Ten Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSM_Bj8MJNJ0gnZ5DuevIkYfD9DqHBNCqb1w&usqp=CAU" group-title="SPORT DUNIA",Sony Ten Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSM_Bj8MJNJ0gnZ5DuevIkYfD9DqHBNCqb1w&usqp=CAU" group-title="SPORT DUNIA",Sony Ten Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+
+
