@@ -876,17 +876,17 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=1311320&extens
 #EXTINF:-1 tvg-id="ArenaPremium3.rs" tvg-name="Arena Premium 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-SJG45vFQfdcbD8wTL3_guv-S3Gp-vEkPPg&usqp=CAU" group-title="SPORT DUNIA",Sky Sport Arena
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=30500&extension=ts
 
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://dl.dropboxusercontent.com/s/1wabbphijo2ien0/fs1.png" group-title="SPORT DUNIA",FS1
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT DUNIA",FS1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=73475&extension=ts
 
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://dl.dropboxusercontent.com/s/1wabbphijo2ien0/fs1.png" group-title="SPORT DUNIA",FS2
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/800px-FS2_logo_2015.svg.png" group-title="SPORT DUNIA",FS2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=73474&extension=ts
 
-#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://dl.dropboxusercontent.com/s/1wabbphijo2ien0/fs1.png" group-title="SPORT DUNIA",Fox Soccer Plus
+#EXTINF:-1 tvg-id="FoxSports1.us" tvg-name="Fox Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz634IOrYZEYhFkq6bOF020r0HnkNQ3K0WRw&usqp=CAU" group-title="SPORT DUNIA",Fox Soccer Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=73464&extension=ts
@@ -951,12 +951,12 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=83455&extensio
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=83449&extension=ts
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="SPORT DUNIA",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNndiKp_oGJtv_-W-gQmLeEVHgSYqAaXSgQw&usqp=CAU" group-title="SPORT DUNIA",ESPN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=73491&extension=ts
 
-#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="SPORT DUNIA",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNndiKp_oGJtv_-W-gQmLeEVHgSYqAaXSgQw&usqp=CAU" group-title="SPORT DUNIA",ESPN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=73490&extension=ts
@@ -966,32 +966,32 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=73490&extensio
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=73487&extension=ts
 
-#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN Argentina" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="SPORT DUNIA",ESPN Argentina
+#EXTINF:-1 tvg-id="ESPNArgentina.ar" tvg-name="ESPN Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNndiKp_oGJtv_-W-gQmLeEVHgSYqAaXSgQw&usqp=CAU" group-title="SPORT DUNIA",ESPN Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=90793&extension=ts
 
-#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="ESPN 2 Argentina" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="SPORT DUNIA",ESPN 2 Argentina
+#EXTINF:-1 tvg-id="ESPN2Argentina.ar" tvg-name="ESPN 2 Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNndiKp_oGJtv_-W-gQmLeEVHgSYqAaXSgQw&usqp=CAU" group-title="SPORT DUNIA",ESPN 2 Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=1358604&extension=ts
 
-#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-name="ESPN 3 Argentina" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="SPORT DUNIA",ESPN 3 Argentina
+#EXTINF:-1 tvg-id="ESPN3Argentina.ar" tvg-name="ESPN 3 Argentina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNndiKp_oGJtv_-W-gQmLeEVHgSYqAaXSgQw&usqp=CAU" group-title="SPORT DUNIA",ESPN 3 Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=90791&extension=ts
 
-#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="SPORT DUNIA",ESPN Deportes
+#EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Espn_deportes.svg/1200px-Espn_deportes.svg.png" group-title="SPORT DUNIA",ESPN Deportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=75284&extension=ts
 
-#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://dl.dropboxusercontent.com/s/5py61tht7sylkqe/espn.png" group-title="SPORT DUNIA",ESPN Premium
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNndiKp_oGJtv_-W-gQmLeEVHgSYqAaXSgQw&usqp=CAU" group-title="SPORT DUNIA",ESPN Premium
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=1358601&extension=ts
 
-#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing" tvg-logo="https://dl.dropboxusercontent.com/s/v5rcg62t5a080l0/ziggosport.png" group-title="SPORT DUNIA",Ziggo Sport Racing
+#EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Ziggo_Sport_Logo.jpg/640px-Ziggo_Sport_Logo.jpg" group-title="SPORT DUNIA",Ziggo Sport Racing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=473684&extension=ts
@@ -1001,77 +1001,77 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=473684&extensi
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=769503&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand"  tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Grandstand
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name="SuperSport Grandstand"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Grandstand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=239079&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport PSL
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name="SuperSport PSL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport PSL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=239077&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Premier League
+#EXTINF:-1 tvg-id="SuperSportPremierLeague.za" tvg-name="SuperSport Premier League" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Premier League
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=1360889&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Football
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name="SuperSport Football" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Football
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=1360887&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport LaLiga
+#EXTINF:-1 tvg-id="SuperSportLaLiga.za" tvg-name="SuperSport LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport LaLiga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=1360888&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Variety 1
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Variety 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=239081&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Variety 2
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Variety 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=239080&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Variety 3
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Variety 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=239085&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Variety 4
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Variety 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=239084&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Action
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name="SuperSport Action" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Action
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=425668&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="SuperSport Rugby" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Rugby
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name="SuperSport Rugby" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Rugby
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=239086&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="SuperSport Golf" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Golf
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name="SuperSport Golf" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Golf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=473677&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Tennis
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name="SuperSport Tennis" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=473669&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="SuperSport Motorsport" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Motorsports
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name="SuperSport Motorsport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Motorsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=473685&extension=ts
 
-#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="SuperSport Maximo 1" tvg-logo="https://dl.dropboxusercontent.com/s/0c6jvddo9q5kow4/supersports.png" group-title="SPORT DUNIA",SuperSport Maximo 1
+#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name="SuperSport Maximo 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXHjAJ1K1ry5uigLPuJ4ymJG1oGEl2gwcJw&usqp=CAU" group-title="SPORT DUNIA",SuperSport Maximo 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=425666&extension=ts
@@ -1136,22 +1136,22 @@ http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=56111&extensio
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=92680&extension=ts
 
-#EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-name="Digi Sport 1 Romania" tvg-logo="https://dl.dropboxusercontent.com/s/ik8auuimyrawk7v/digisport.png" group-title="SPORT DUNIA",Digi Sport 1
+#EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-name="Digi Sport 1 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSIsuyRu8qeIUL5_5suAQF3pxzucGlpRFPg&usqp=CAU" group-title="SPORT DUNIA",Digi Sport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=207916&extension=ts
 
-#EXTINF:-1 tvg-id="DigiSport2Romania.ro" tvg-name="Digi Sport 2 Romania" tvg-logo="https://dl.dropboxusercontent.com/s/ik8auuimyrawk7v/digisport.png" group-title="SPORT DUNIA",Digi Sport 2
+#EXTINF:-1 tvg-id="DigiSport2Romania.ro" tvg-name="Digi Sport 2 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSIsuyRu8qeIUL5_5suAQF3pxzucGlpRFPg&usqp=CAU" group-title="SPORT DUNIA",Digi Sport 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=207917&extension=ts
 
-#EXTINF:-1 tvg-id="DigiSport3Romania.ro" tvg-name="Digi Sport 3 Romania" tvg-logo="https://dl.dropboxusercontent.com/s/ik8auuimyrawk7v/digisport.png" group-title="SPORT DUNIA",Digi Sport 3
+#EXTINF:-1 tvg-id="DigiSport3Romania.ro" tvg-name="Digi Sport 3 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSIsuyRu8qeIUL5_5suAQF3pxzucGlpRFPg&usqp=CAU" group-title="SPORT DUNIA",Digi Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=207963&extension=ts
 
-#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://dl.dropboxusercontent.com/s/ik8auuimyrawk7v/digisport.png" group-title="SPORT DUNIA",Digi Sport 4
+#EXTINF:-1 tvg-id="DigiSport4Romania.ro" tvg-name="Digi Sport 4 Romania" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSIsuyRu8qeIUL5_5suAQF3pxzucGlpRFPg&usqp=CAU" group-title="SPORT DUNIA",Digi Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 http://mag.greatott.me/play/live.php?mac=00:1A:79:0C:F4:CA&stream=207964&extension=ts
