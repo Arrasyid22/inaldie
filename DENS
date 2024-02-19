@@ -28,9 +28,9 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2591&extensi
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", MANCHASTER UNITED LIVE
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1757338&extension=ts
 
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇬🇧LIGA SPANYOL🇬🇧##", LIVE 1
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1350747&extension=ts
-#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇬🇧LIGA SPANYOL🇬🇧##", LIVE 2
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1936&extension=ts
 
 
