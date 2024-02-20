@@ -21,6 +21,8 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=2153
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=358404_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 7
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=361233_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOtyHyx63MgN6OAtAUZnUpAF20q-jmNRT1KA&usqp=CAU" group-title="##🏆LIGA CHAMPIONS UEFA🏆##", LIVE 8
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=304396_&extension=ts
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 1
@@ -50,8 +52,19 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1757338&exte
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1350747&extension=ts
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 2
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1936&extension=ts
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 3
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=353632_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 4
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=353643_&extension=ts
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 5
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=264973_&extension=ts
 
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-JCeT99C_RVSglokOSFSL7TuT9R85-fIyw&usqp=CAU" group-title="BEIN SPORTS", BEIN SPORT 1 AU
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359019_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-JCeT99C_RVSglokOSFSL7TuT9R85-fIyw&usqp=CAU" group-title="BEIN SPORTS", BEIN SPORT 2 AU
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359015_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt-JCeT99C_RVSglokOSFSL7TuT9R85-fIyw&usqp=CAU" group-title="BEIN SPORTS", BEIN SPORT 3 AU
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359017_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://res.9appsinstall.com/group3/M00/84/ED/4ZMEAFsV79aAScRMAABrYhWRIIk813.png" group-title="BEIN SPORTS", BEIN SPORT 1 AR
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=152162_&extension=ts&play_token=nYXu66mFaW
@@ -120,23 +133,45 @@ http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=152139_&exte
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71FHz073Z8L.png" group-title="SSC SPORT", SSC SPORT EXTRA 2 AR
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=152138_&extension=ts&play_token=nYXu66mFaW
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SOCCER PLUS US
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORTS", FOX SOCCER PLUS US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110173_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SPORT 1 US
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORTS", FOX SPORT 1 US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110174_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SPORT 2 US
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORTS", FOX SPORT 2 US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110175_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SPORT WEST US
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORTS", FOX SPORT WEST US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110192_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SPORT WEST PLUS US
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORTS", FOX SPORT WEST PLUS US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110193_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SPORTNET US
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORTS", FOX SPORTNET US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110182_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SPORTNET OHAIO US
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORTS", FOX SPORTNET OHAIO US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110189_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SPORT RACING US
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORTS", FOX SPORT RACING US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110485_&extension=ts&play_token=nYXu66mFaW
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SJ5-HlSklNmknA6OS5cHsK4z46PAs-3Urg&usqp=CAU" group-title="FOX SPORTS", FOX SPORTS 501
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359027_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SJ5-HlSklNmknA6OS5cHsK4z46PAs-3Urg&usqp=CAU" group-title="FOX SPORTS", FOX SPORTS 502
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359026_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SJ5-HlSklNmknA6OS5cHsK4z46PAs-3Urg&usqp=CAU" group-title="FOX SPORTS", FOX SPORTS 503
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359025_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SJ5-HlSklNmknA6OS5cHsK4z46PAs-3Urg&usqp=CAU" group-title="FOX SPORTS", FOX SPORTS 504
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359024_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SJ5-HlSklNmknA6OS5cHsK4z46PAs-3Urg&usqp=CAU" group-title="FOX SPORTS", FOX SPORTS 505
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359023_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SJ5-HlSklNmknA6OS5cHsK4z46PAs-3Urg&usqp=CAU" group-title="FOX SPORTS", FOX SPORTS 506
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359022_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0SJ5-HlSklNmknA6OS5cHsK4z46PAs-3Urg&usqp=CAU" group-title="FOX SPORTS", FOX SPORTS 507
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359021_&extension=ts
+
+
+
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 1 AU
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359013_&extension=ts
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 2 AU
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=359012_&extension=ts
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 1 US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110161_&extension=ts&play_token=nYXu66mFaW
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 2 US
@@ -167,6 +202,32 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=3617
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=361766_&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8JLJOuh_bd5xRoUioPmyMDwXEUsAdefcmw&usqp=CAU" group-title="ZIGGO SPORTS", ZIGGO SPORTS GOLF NL
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=361767_&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 1
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303053_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 2
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303054_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 3
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303055_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 4
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303056_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 5
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303057_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 6
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303058_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 7
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303059_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 8 PL
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303060_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT 9
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303061_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY SPORT SELECT
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=303062_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY ESPN 1
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=356701_&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr91eZT3Cb5bx6V73LDFqGl2VoXRRT0wFKHQ&usqp=CAU" group-title="SKY NEWZELAND", SKY ESPN 2
+http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=356701_&extension=ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDHbYwyojyKYPUaOwwWGc7TTCcnI4WUwbxOA&usqp=CAU" group-title="ESPN SPORTS", ESPN 1 NL
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=361762_&extension=ts
