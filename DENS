@@ -137,27 +137,20 @@ http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110189_&exte
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-logo-46B7571340-seeklogo.com.png" group-title="FOX SPORT", FOX SPORT RACING US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110485_&extension=ts&play_token=nYXu66mFaW
 
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORT", ESPN SPORT 1 US
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 1 US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110161_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORT", ESPN SPORT 2 US
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 2 US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110164_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="ESPN SPORT", ESPN SPORT DEPORTES US
+#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespndeportes_white.png" group-title="ESPN SPORTS", ESPN SPORT DEPORTES US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110167_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://www.houstononthecheap.com/wp-content/uploads/2020/02/watch-ESPNU-online.jpg" group-title="ESPN SPORT", ESPN SPORT U US
+#EXTINF:-1 tvg-logo="https://www.houstononthecheap.com/wp-content/uploads/2020/02/watch-ESPNU-online.jpg" group-title="ESPN SPORTS", ESPN SPORT U US
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=110169_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORT", ESPN SPORT 1 DSTV
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 1 DSTV
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=108133_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORT", ESPN SPORT 1 BR
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 1 BR
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=3663_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORT", ESPN SPORT 2 BR
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/10/espn-logo.jpg" group-title="ESPN SPORTS", ESPN SPORT 2 BR
 http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=3664_&extension=ts&play_token=nYXu66mFaW
-
-#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo-1024x576.jpg" group-title="SPORTV BR", SPORTV 1 BR
-http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=3679_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo-1024x576.jpg" group-title="SPORTV BR", SPORTV 2 BR
-http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=3680_&extension=ts&play_token=nYXu66mFaW
-#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo-1024x576.jpg" group-title="SPORTV BR", SPORTV 3 BR
-http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=3681_&extension=ts&play_token=nYXu66mFaW
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8JLJOuh_bd5xRoUioPmyMDwXEUsAdefcmw&usqp=CAU" group-title="ZIGGO SPORTS", ZIGGO SPORTS VOETBAL NL
@@ -197,7 +190,12 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=3024
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDHbYwyojyKYPUaOwwWGc7TTCcnI4WUwbxOA&usqp=CAU" group-title="ESPN SPORTS", ESPN 2 LT
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=302489_&extension=ts
 
-
+#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo-1024x576.jpg" group-title="SPORTV BR", SPORTV 1 BR
+http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=3679_&extension=ts&play_token=nYXu66mFaW
+#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo-1024x576.jpg" group-title="SPORTV BR", SPORTV 2 BR
+http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=3680_&extension=ts&play_token=nYXu66mFaW
+#EXTINF:-1 tvg-logo="https://marcasmais.com.br/wp-content/uploads/2023/08/Sportv-Logo-1024x576.jpg" group-title="SPORTV BR", SPORTV 3 BR
+http://tiger88.live:8080/play/live.php?mac=00:1A:79:34:E2:4B&stream=3681_&extension=ts&play_token=nYXu66mFaW
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="INDONESIA", ID001:BEIN SPORT 3 HD
