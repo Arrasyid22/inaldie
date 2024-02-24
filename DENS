@@ -942,7 +942,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=655167&extensio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", FR| DAZN 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=655168&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="FR| FRANCE HEVC SD", FR| DAZN 1 SD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", FR| DAZN 1 SD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=655169&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", FR| CANAL+ LDC
