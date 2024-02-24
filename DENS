@@ -79,6 +79,61 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021551&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", LIVE 3
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021169&extension=ts
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇩🇪##LIGA JERMAN🇩🇪", LIVE 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021585&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇩🇪##LIGA JERMAN🇩🇪", LIVE 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021091&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇩🇪##LIGA JERMAN🇩🇪", LIVE 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1469411&extension=ts
+
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 15:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519373&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 14:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519372&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 13:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519371&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 12:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519370&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 11:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519369&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 10:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519368&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 09:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519367&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 08:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519366&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 07:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519365&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 06:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519364&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 05:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519363&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 04:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519362&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 03:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519361&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 02:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519360&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 01:
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519359&extension=ts
+
+
 
 #EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519251&extension=ts
@@ -111,6 +166,8 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022749&exte
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022750&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 7
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022751&extension=ts
+
+
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
