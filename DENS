@@ -135,6 +135,32 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519359&exte
 
 
 
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025717&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025718&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025719&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025720&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025721&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 6
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025722&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 7
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025723&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025724&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 9
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025725&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 10
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025726&extension=ts
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519251&extension=ts
 #EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 2
