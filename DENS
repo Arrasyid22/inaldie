@@ -100,8 +100,10 @@ http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=3536
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=353643_&extension=ts
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 5
 http://ip.untouchablelive.com:80/play/live.php?mac=00:1A:79:18:07:A4&stream=264973_&extension=ts
-
-
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 6
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1965&extension=ts
+#EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 7
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1968&extension=ts
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
