@@ -55,41 +55,6 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1201239&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzWu0MXatQ6eEF0ts3w1KwgU14QzYmIULY7A&usqp=CAU" group-title="##🇬🇧LIGA INGGRIS🇬🇧##", LIVE 14
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1201251&extension=ts
 
-
-
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇬🇧OPTUS LIVE🇬🇧##", LIVE OPTUS 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519251&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇬🇧OPTUS LIVE🇬🇧##", LIVE OPTUS 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519252&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇬🇧OPTUS LIVE🇬🇧##", LIVE OPTUS 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519253&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇬🇧OPTUS LIVE🇬🇧##", LIVE OPTUS 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519254&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇬🇧OPTUS LIVE🇬🇧##", LIVE OPTUS 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519255&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇬🇧OPTUS LIVE🇬🇧##", LIVE OPTUS 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519256&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇬🇧OPTUS LIVE🇬🇧##", LIVE OPTUS 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519257&extension=ts
-#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇬🇧OPTUS LIVE🇬🇧##", LIVE OPTUS 8
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519258&extension=ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 1
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022746&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022747&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 3
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022684&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022748&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 5
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022749&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 6
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022750&extension=ts
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 7
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022751&extension=ts
-
-
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1350747&extension=ts
 #EXTINF:-1 tvg-logo="https://www.stuff.tv/wp-content/uploads/sites/2/2023/02/LaLiga-logo.png" group-title="##🇪🇦LIGA SPANYOL🇪🇦##", LIVE 2
@@ -113,6 +78,39 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1930&extensi
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021551&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTfLmASp8OcFC2EOUJNMXXCzXwjdjK4LuH1w&usqp=CAU" group-title="##🇮🇹LIGA ITALIA🇮🇹##", LIVE 3
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1021169&extension=ts
+
+
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519251&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519252&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519253&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519254&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519255&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 6
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519256&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 7
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519257&extension=ts
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/Optus_Sport_OG_Image_nov_2023.jpg" group-title="##🇦🇺OPTUS LIVE🇦🇺##", LIVE OPTUS 8
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519258&extension=ts
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022746&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022747&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022684&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022748&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 5
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022749&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 6
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022750&extension=ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 7
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022751&extension=ts
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
