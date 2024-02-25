@@ -903,6 +903,15 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerc
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", TNT SPORT 1
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1929&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", TNT SPORT 2
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1920&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", TNT SPORT 3
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1935&extension=ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", TNT SPORT 4
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1922&extension=ts
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", DAZN UFC
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1732309&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", DAZN CA
@@ -925,8 +934,6 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=151915&extensio
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", BE| (DAZN) ELEVEN PRO LEAGUES 2 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=993&extension=ts
-
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=390356&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", BE| (DAZN) ELEVEN SPORT 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=78969&extension=ts
@@ -2891,34 +2898,34 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97142&extension
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| Sky Sports Golf HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97143&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT SportESPN HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT Sport 4 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97145&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT Sport 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT Sport 1 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97146&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT Sport1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT Sport 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97147&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT Sport 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT Sport 2 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97148&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT Sport 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT Sport 3 HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97150&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT Sport3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT Sport3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97151&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT SportExtra 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT SportExtra 1
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97152&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT SportExtra 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT SportExtra 2
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97153&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT SportExtra 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT SportExtra 3
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97154&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| BT SportExtra 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", UK| TNT SportExtra 4
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97155&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", NBC Sports Network FHD
@@ -4446,7 +4453,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97922&extension
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="CARTOON LUAR", OSN| Movies Disney HD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97923&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="CARTOON LUAR", MyHD Kids: Masha & the Bear FHD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="CARTOON LUAR", Masha & the Bear FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=97984&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="CARTOON LUAR", ARKIDS| bouya
@@ -4798,7 +4805,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=596662&extensio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="MUSIC MTV", FOXX-MUSIC| Rap US
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=691787&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="MUSIC MTV", FOXX-MUSIC| Rap Fran\u00e7ais
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="MUSIC MTV", FOXX-MUSIC| Rap France
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=691786&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="MUSIC MTV", FOXX-MUSIC| Retro Rap
@@ -4813,7 +4820,7 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=170364&extensio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="MUSIC MTV", FOXX-MUSIC| Tomorrowland
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=627780&extension=ts
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="MUSIC MTV", FOXX-MUSIC| Tubes Tele annees.80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="MUSIC MTV", FOXX-MUSIC| Tubes Tele annee
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=166775&extension=ts
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="MUSIC MTV", FOXX-MUSIC| The Doors
