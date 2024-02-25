@@ -142,7 +142,14 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519360&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 01:
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519359&extension=ts
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 1
+http://et1.xyz:25461/snajper69/snajper69a/187760
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 2
+http://et1.xyz:25461/snajper69/snajper69a/187761
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 3
+http://et1.xyz:25461/snajper69/snajper69a/187762
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 4
+http://et1.xyz:25461/snajper69/snajper69a/187763
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 1
