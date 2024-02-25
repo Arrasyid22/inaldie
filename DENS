@@ -908,6 +908,8 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1732309&exte
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", DAZN CA
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1469411&extension=ts
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)",  TUDN MX
+http://claymorej2.pinals.xyz:8080/jAvAE5a92WF31/apkBpuzB5xJL/3036
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", BE| (DAZN) ELEVEN PRO LEAGUES 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:B5:B7:FC&stream=992&extension=ts
