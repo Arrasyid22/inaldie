@@ -153,6 +153,18 @@ http://et1.xyz:25461/snajper69/snajper69a/187763
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="ASTRO SPORT", ASTRO CRICKET
 http://et1.xyz:25461/snajper69/snajper69a/220627
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 1
+http://mykingtv.net:2082/nm5039/WpjMc2KeftRW/8416
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 2
+http://mykingtv.net:2082/nm5039/WpjMc2KeftRW/8417
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 3
+http://mykingtv.net:2082/nm5039/WpjMc2KeftRW/8418
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 4
+http://mykingtv.net:2082/nm5039/WpjMc2KeftRW/8419
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaCz1Faq0bATExhESWkbAx6X4CyuG073NhZQ&usqp=CAU" group-title="ASTRO SPORT", BEIN SPORT 3 ASIA
+http://mykingtv.net:2082/nm5039/WpjMc2KeftRW/8414
+
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpJpvVpxwaKXzREoxB3wQEXOue21xV2IyIMOrWj4yTtxYmUCJh0XIe3fr&s=10" group-title="MLS", MLS Live 1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1025717&extension=ts
