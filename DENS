@@ -163,6 +163,223 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519360&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 01:
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519359&extension=ts
 
+
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/fox-soccer-plus-us.png" group-title="USA Sports", Fox Sports Soccer+
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112002
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/acc-network-us.png" group-title="USA Sports", ACC Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112491
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/acc-network-extra-us.png" group-title="USA Sports", ACC Network Extra
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112492
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/altitude-sports-us.png" group-title="USA Sports", Altitude Sports
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112493
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/altitude-sports-us.png" group-title="USA Sports", Altitude Sports 2
+http://ourlink.vip:7777/Mark989/HGDEERTTD/135123
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/custom/at-and-t-sportsnet-pittsburgh-custom-us.png" group-title="USA Sports", AT&T SportsNet Pittsburgh
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112494
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/custom/at-and-t-sportsnet-rocky-mountain-custom-us.png" group-title="USA Sports", AT&T Sportsnet Rocky Mountain
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112495
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/custom/at-and-t-sportsnet-southwest-custom-us.png" group-title="USA Sports", AT&T Sportsnet Southwest
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112496
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/btn-us.png" group-title="USA Sports", Big Ten Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112497
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/cbs-sports-network-us.png" group-title="USA Sports", CBS Sports Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112498
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-us.png" group-title="USA Sports", ESPN
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112499
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-2-us.png" group-title="USA Sports", ESPN 2
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112500
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-3-us.png" group-title="USA Sports", ESPN 3
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112501
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/longhorn-network-us.png" group-title="USA Sports", ESPN Longhorn Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112559
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espnews-us.png" group-title="USA Sports", ESPN News
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112502
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-u-us.png" group-title="USA Sports", ESPN U
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112503
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/fox-sports-1-us.png" group-title="USA Sports", Fox Sports 1
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112560
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/fox-sports-2-us.png" group-title="USA Sports", Fox Sports 2
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112561
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/fubo-sports-network-us.png" group-title="USA Sports", Fubo Sports
+http://ourlink.vip:7777/Mark989/HGDEERTTD/148203
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/gol-tv-us.png" group-title="USA Sports", Gol TV
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112506
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/marquee-sports-network-us.png" group-title="USA Sports", Marquee Sports Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112507
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mav-tv-us.png" group-title="USA Sports", Mav Tv
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112508
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/mlb-network-us.png" group-title="USA Sports", MLB Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112509
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/msg-us.png" group-title="USA Sports", MSG
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112510
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/msg-plus-us.png" group-title="USA Sports", MSG +
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112511
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/msg-2-us.png" group-title="USA Sports", MSG 2
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112512
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nba-tv-us.png" group-title="USA Sports", NBA TV
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112514
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbc-golf-channel-us.png" group-title="USA Sports", NBC Golf
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112515
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/peacock-nbc-golf-pass.png" group-title="USA Sports", NBC Golf Pass
+http://ourlink.vip:7777/Mark989/HGDEERTTD/119569
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-us.png" group-title="USA Sports", NBCSN
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112516
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-bay-area-us.png" group-title="USA Sports", NBC Sports Bay Area
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112517
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-bay-area-us.png" group-title="USA Sports", NBC Sports Bay Area+
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112518
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-boston-us.png" group-title="USA Sports", NBC Sports Boston
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112519
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-california-us.png" group-title="USA Sports", NBC Sports California
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112520
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-california-us.png" group-title="USA Sports", NBC Sports California+
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112521
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-chicago-us.png" group-title="USA Sports", NBC Sports Chicago
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112522
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-chicago-us.png" group-title="USA Sports", NBC Sports Chicago+
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112523
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-northwest-us.png" group-title="USA Sports", NBC Sports North West
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112524
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-philadelphia-us.png" group-title="USA Sports", NBC Sports Philly
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112525
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-philadelphia-us.png" group-title="USA Sports", NBC Sports Philly+
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112526
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-washington-us.png" group-title="USA Sports", NBC Sports Washington
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112527
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nbcsn-washington-us.png" group-title="USA Sports", NBC Sports Washington+
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112528
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nesn-us.png" group-title="USA Sports", NESN
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112529
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nesn-plus-us.png" group-title="USA Sports", NESN +
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112530
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nfl-icon-us.png" group-title="USA Sports", NFL Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112531
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nfl-red-zone-us.png" group-title="USA Sports", NFL RedZone
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112532
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/nhl-network-us.png" group-title="USA Sports", NHL Network.
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112533
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/olympic-channel-us.png" group-title="USA Sports", Olympic Channel
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112534
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/pac-12-arizona-new.png" group-title="USA Sports", PAC 12 Arizona
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112535
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/pac-12-bay-area-new.png" group-title="USA Sports", PAC 12 Bay Area
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112536
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/pac-12-la-new.png" group-title="USA Sports", PAC 12 Los Angeles
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112537
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/pac-12-mountain-new.png" group-title="USA Sports", PAC 12 Mountain
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112538
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/pac-12-network-new.png" group-title="USA Sports", PAC 12 Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112539
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/pac-12-oregon-new.png" group-title="USA Sports", Pac-12 Oregon
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112540
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/pac-12-washington-new.png" group-title="USA Sports", PAC12 Washington
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112541
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/peacock-premier-league-new-logo.png" group-title="USA Sports", Premier League Tv
+http://ourlink.vip:7777/Mark989/HGDEERTTD/119568
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/red_bull_tv.png" group-title="USA Sports", Red Bull Tv
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112542
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/sec-network-us.png" group-title="USA Sports", SEC Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112543
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/spectrum-sportsnet-la-us.png" group-title="USA Sports", Spectrum SportsNet LA
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112544
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/acc-network-extra-us.png" group-title="USA Sports", ACC Network Extra
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112492
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/sny-us.png" group-title="USA Sports", SportsNet NY
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112546
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/stadium-us.png" group-title="USA Sports", Stadium
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112547
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/stadium-us.png" group-title="USA Sports", Stadium 2
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112548
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/stadium-us.png" group-title="USA Sports", Stadium 3
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112549
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/tennis-channel-us.png" group-title="USA Sports", Tennis Channel
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112551
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/tvg-network-us.png" group-title="USA Sports", TVG Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112553
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/tvg-2-us.png" group-title="USA Sports", TVG 2 Network
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112554
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/ufc-us.png" group-title="USA Sports", UFC TV
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112555
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/willow-us.png" group-title="USA Sports", Willow Cricket
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112556
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/willow-xtra-us.png" group-title="USA Sports", Willow Cricket Extra
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112557
+
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/wwe-us.png" group-title="USA Sports", WWE
+http://ourlink.vip:7777/Mark989/HGDEERTTD/112558
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 1
 http://et1.xyz:25461/snajper69/snajper69a/187760
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 2
