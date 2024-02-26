@@ -1,4 +1,4 @@
-
+Om
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="####♦GRUP TELEGRAM♦####", SELAMAT DATANG DI CHANNEL INALDIE
 https://github.com/Arrasyid22/inaldie/raw/main/WELCOM.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="####♦GRUP TELEGRAM♦####", JOINT TELEGRAM https://t.me/IPTVcostum
@@ -2596,6 +2596,172 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022749&exte
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022750&extension=ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMF4jopwQNC3-ZIp6u-AVKDNO6iml_BbO60A&usqp=CAU" group-title="##🇸🇦SSC LIVE🇸🇦##", SSC SPORT 7
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1022751&extension=ts
+
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , TV1
+http://50.7.234.10:8278/TV1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , TV1_backup
+http://50.7.234.10:8278/TV1_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , TV2
+http://50.7.234.10:8278/TV2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , TV3
+http://50.7.234.10:8278/TV3/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , tv3_twn
+http://50.7.234.10:8278/tv3_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , NTV7
+http://50.7.234.10:8278/NTV7/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , TV8
+http://50.7.234.10:8278/TV8/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , TV9
+http://50.7.234.10:8278/TV9/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Warna-O
+http://50.7.234.10:8278/Warna-O/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Warna
+http://50.7.234.10:8278/Warna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Ria_backup
+http://50.7.234.10:8278/Ria_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Ria
+http://50.7.234.10:8278/Ria/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Alhijrah
+http://50.7.234.10:8278/Alhijrah/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Alhijrah_backup
+http://50.7.234.10:8278/Alhijrah_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Awani
+http://50.7.234.10:8278/Awani/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Bernama
+http://50.7.234.10:8278/Bernama/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Prima1_xue
+http://50.7.234.10:8278/Prima1_xue/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Prima_backup
+http://50.7.234.10:8278/Prima_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Ceria
+http://50.7.234.10:8278/Ceria/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , quran_mido
+http://50.7.234.10:8278/quran_mido/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , sunnah_mido
+http://50.7.234.10:8278/sunnah_mido/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Oasis
+http://50.7.234.10:8278/Oasis/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Hbohits
+http://50.7.234.10:8278/Hbohits/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Hbo
+http://50.7.234.10:8278/Hbo/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Hbosignature
+http://50.7.234.10:8278/Hbosignature/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Natgeowild
+http://50.7.234.10:8278/Natgeowild/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Cn
+http://50.7.234.10:8278/Cn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Nickelodeon
+http://50.7.234.10:8278/Nickelodeon/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Nickjr
+http://50.7.234.10:8278/Nickjr/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Dreamworks
+http://50.7.234.10:8278/Dreamworks/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Citra_xue
+http://50.7.234.10:8278/Citra_xue/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Sensasi
+http://50.7.234.10:8278/Sensasi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Aura
+http://50.7.234.10:8278/Aura/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Rania
+http://50.7.234.10:8278/Rania/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Boo
+http://50.7.234.10:8278/Boo/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Dsangat
+http://50.7.234.10:8278/Dsangat/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , SetOne
+http://50.7.234.10:8278/SetOne/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , KBS
+http://50.7.234.10:8278/KBS/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , TVN
+http://50.7.234.10:8278/TVN/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Astropremier
+http://50.7.234.10:8278/Astropremier/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , AEC
+http://50.7.234.10:8278/AEC/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Wlt
+http://50.7.234.10:8278/Wlt/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Huahee
+http://50.7.234.10:8278/Huahee/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Huahee_backup
+http://50.7.234.10:8278/Huahee_backup/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Quanjia
+http://50.7.234.10:8278/Quanjia/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Tvbmagic
+http://50.7.234.10:8278/Tvbmagic/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Tvbjade
+http://50.7.234.10:8278/Tvbjade/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Tvbasia
+http://50.7.234.10:8278/Tvbasia/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Tvbentertainment
+http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Tvbclassic
+http://50.7.234.10:8278/Tvbclassic/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , AodHD
+http://50.7.234.10:8278/AodHD/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , One_mega
+http://50.7.234.10:8278/One_mega/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Xinhe
+http://50.7.234.10:8278/Xinhe/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Qiyi
+http://50.7.234.10:8278/Qiyi/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , AnimalPlanet
+http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Tvnmovie
+http://50.7.234.10:8278/Tvnmovie/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , cnn_twn
+http://50.7.234.10:8278/cnn_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Celestial2
+http://50.7.234.10:8278/Celestial2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , cnbc_twn
+http://50.7.234.10:8278/cnbc_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Arena
+http://50.7.234.10:8278/Arena/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Tlc
+http://50.7.234.10:8278/Tlc/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , cna
+http://50.7.234.10:8278/cna/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , asiatravel_twn
+http://50.7.234.10:8278/asiatravel_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , bbcnews_twn
+http://50.7.234.10:8278/bbcnews_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Foodnetwork_mega
+http://50.7.234.10:8278/Foodnetwork_mega/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , HGTV
+http://50.7.234.10:8278/HGTV/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Goshop
+http://50.7.234.10:8278/Goshop/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Celestial_mega
+http://50.7.234.10:8278/Celestial_mega/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Arena2
+http://50.7.234.10:8278/Arena2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Axn
+http://50.7.234.10:8278/Axn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Paramountnetwork
+http://50.7.234.10:8278/Paramountnetwork/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Kplus
+http://50.7.234.10:8278/Kplus/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Rockaction
+http://50.7.234.10:8278/Rockaction/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="httpS://omzolix.elementfx.com/logo/Astro-logo.png" group-title="ASTRO GO" , bloomberg_twn
+http://50.7.234.10:8278/bloomberg_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , aljazeera_twn
+http://50.7.234.10:8278/aljazeera_twn/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Rockentertain
+http://50.7.234.10:8278/Rockentertain/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Showcase_mega
+http://50.7.234.10:8278/Showcase_mega/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Rtmsport
+http://50.7.234.10:8278/Rtmsport/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Bolaarena1
+http://50.7.234.10:8278/Bolaarena1/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqND5arUKGvLc2MYXx7mRYLyi1kE58ka4NeJT8yLt86qMNnZHv_Yu3CM&s=10" group-title="ASTRO GO" , Bolaarena2
+http://50.7.234.10:8278/Bolaarena2/playlist.m3u8?tid=mc42afe005811&ct=19762&tsum=fe623255f45f76ff163dbad7f1f0f81a
+
+
+
+
 
 #EXTINF:-1 tvg-logo="___" group-title="EMTEK TV",SCTV DIGITAL
 http://mykingtv.net:2082/nm5039/WpjMc2KeftRW/5147
