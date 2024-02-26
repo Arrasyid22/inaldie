@@ -3330,6 +3330,17 @@ http://148.113.5.31:8106/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="FightSports"  tvg-logo="150x150fightsport.jpg" group-title="SPORT LOKAL", Bein Sport 1
 https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-1-in.png" group-title="SPORT LOKAL", Sony Ten Sport 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-2-in.png" group-title="SPORT LOKAL", Sony Ten Sport 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-3-in.png" group-title="SPORT LOKAL", Sony Ten Sport 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-4-in.png" group-title="SPORT LOKAL", Sony Ten Sport 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-sports-ten-5-in.png" group-title="SPORT LOKAL", Sony Ten Sport 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", TNT SPORT 1
