@@ -1439,9 +1439,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115286
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS (WBIQ) Birmingham
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115287
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/arizona-flag-small.png" group-title="USA TV", @@ ARIZONA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114026
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-15-knxv-us.png" group-title="USA TV", ABC 15 (KNXV) Phoenix
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114027
 
@@ -1462,9 +1459,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114032
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 08 Phoenix
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114033
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/california-flag-small.png" group-title="USA TV", @@ CALIFORNIA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114034
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-30-kfsn-us.png" group-title="USA TV", ABC 30 (KFSN) Fresno
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115709
@@ -1559,9 +1553,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115339
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 09 (KQED) San Francisco
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115340
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/colorado-flag-small.png" group-title="USA TV", @@ COLORADO @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114143
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-7-kmgh-us.png" group-title="USA TV", ABC 07 (KMGH) Denver
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114144
 
@@ -1576,9 +1567,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114147
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 12 (KRMA) Denver
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114148
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/connecticut-flag-small.png" group-title="USA TV", @@ CONNETICUT @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115793
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-8-wtnh-us.png" group-title="USA TV", ABC 08 (WTNH) Hartford
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115684
@@ -1595,8 +1583,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115687
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 24 (WEDH) Hartford
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115688
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/florida-flag-small.png" group-title="USA TV", @@ FLORIDA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114056
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-25-wjxx.png" group-title="USA TV", ABC 25 (WJXX) Jacksonville
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115754
@@ -1676,9 +1662,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114075
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/fox13-tamba-bay.png" group-title="USA TV", FOX 13 (WTVT) Tampa
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114076
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/georgia-flag-small.png" group-title="USA TV", @@ GEORGIA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114149
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc10.png" group-title="USA TV", ABC 10 (WALB2) Albany
 http://ourlink.vip:7777/Mark989/HGDEERTTD/148370
 
@@ -1751,8 +1734,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114157
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-3-wsav.png" group-title="USA TV", NBC 03 (WSAV) Savannah
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114158
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/hawaii-flag-small.png" group-title="USA TV", @@ HAWAII @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115288
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-4-KITV_4_logo.png" group-title="USA TV", ABC 04 (KITV) Honolulu
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115289
@@ -1765,9 +1746,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115291
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-13-KHNL.png" group-title="USA TV", NBC 13 (KHNL) Honolulu
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115292
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/idaho-flag-small.png" group-title="USA TV", @@IDAHO@@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/116612
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-6-kivi-us.png" group-title="USA TV", ABC 06 (KIVI) Boise
 http://ourlink.vip:7777/Mark989/HGDEERTTD/116613
@@ -1783,9 +1761,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/116616
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-7-ktvb-us.png" group-title="USA TV", NBC 07 (KTVB) Boise
 http://ourlink.vip:7777/Mark989/HGDEERTTD/116617
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/illinois-flag-small.png" group-title="USA TV", @@ ILLINOIS @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114077
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-7-wls-us.png" group-title="USA TV", ABC 07 (WLS) Chicago
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114078
@@ -1810,9 +1785,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114084
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/wgn-9-chicago-us.png" group-title="USA TV", WGN 9 (WGNDT) Chicago
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114085
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/indiana-flag-small.png" group-title="USA TV", @@ INDIANA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115792
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-6-wrtv-us.png" group-title="USA TV", ABC 06 (WRTV) Indianapolis
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115678
@@ -1847,8 +1819,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/116622
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-7-kwwl-us.png" group-title="USA TV", NBC 07 (KWWL) Cedar Rapids
 http://ourlink.vip:7777/Mark989/HGDEERTTD/116623
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/louisiana-flag-small.png" group-title="USA TV", @@ LOUISANA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115732
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-26-wgno.png" group-title="USA TV", ABC 26 (WGNO) New Orleans
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115733
@@ -1864,9 +1834,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115736
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 12 (WYES) New Orleans
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115737
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/maryland-flag-small.png" group-title="USA TV", @@ MARYLAND @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115738
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-2-wmar-us.png" group-title="USA TV", ABC 02 (WMAR) Baltimore
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115739
@@ -1889,9 +1856,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115744
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 22 (WMPT) Baltimore
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115745
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/massachusetts-flag-small.png" group-title="USA TV", @@ MASSACHUSETTS @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114086
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-5-wcvb-us.png" group-title="USA TV", ABC 05 (WCVB) Boston
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114087
 
@@ -1913,8 +1877,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114092
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 02 (WGBH) Boston
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114093
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/michigan-flag-small.png" group-title="USA TV", @@ MICHIGAN @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114159
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-7-wxyz-us.png" group-title="USA TV", ABC 07 (WXYZ) Detroit
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114160
@@ -1933,9 +1895,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114164
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 56 (WTVS) Detroit
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114165
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/minnesota-flag-small.png" group-title="USA TV", @@ MINNESOTA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114094
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-5-kstp-us.png" group-title="USA TV", ABC 05 (KSTP) Minneapolis/St. paul
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114095
@@ -1958,9 +1917,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114100
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 02 (TPT2) Minneapolis/St. paul
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114101
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/missouri-flag-small.png" group-title="USA TV", @@MISSOURI@@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/141088
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-30-kdnl-us.png" group-title="USA TV", ABC 30 (KDNL) St. Louis
 http://ourlink.vip:7777/Mark989/HGDEERTTD/141089
 
@@ -1973,9 +1929,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/141091
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-5-KSDK.png" group-title="USA TV", NBC 5 (KSDK) St. Louis
 http://ourlink.vip:7777/Mark989/HGDEERTTD/141092
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/nebraska-flag-small.png" group-title="USA TV", @@ NEBRASKA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115341
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-7-ketv-us.png" group-title="USA TV", ABC 07 (KETV) Omaha
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115316
 
@@ -1987,9 +1940,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115318
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-6-WOWT_6_logo.png" group-title="USA TV", NBC 06 (WOWT) Omaha
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115319
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/nevada-flag-small.png" group-title="USA TV", @@ NEVADA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114166
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-13-ktnv-us.png" group-title="USA TV", ABC 13 (KTNV) Las Vegas
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114167
@@ -2027,9 +1977,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/116610
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 05 (KNPB) Reno
 http://ourlink.vip:7777/Mark989/HGDEERTTD/116611
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/new-york-flag-small.png" group-title="USA TV", @@ NEW YORK @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114102
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-7-wabc-us.png" group-title="USA TV", ABC 07 (WABC) New York
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114103
 
@@ -2050,9 +1997,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114107
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/cw/cw-11-wpix-us.png" group-title="USA TV", PIX 11 (WPIX) New York
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114108
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/north-carolina-flag-small.png" group-title="USA TV", @@ NORTH CAROLINA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115794
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-9-wsoc-us.png" group-title="USA TV", ABC 09 (WSOC) Charlotte
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115689
@@ -2087,9 +2031,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115699
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-5-wral.png" group-title="USA TV", NBC 05 (WRAL) Raleigh
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115700
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/north-dakota-flag-small.png" group-title="USA TV", @@ NORTH DAKOTA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115714
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-6--wday.png" group-title="USA TV", ABC 06 (WDAY) Fargo
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115715
 
@@ -2101,9 +2042,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115717
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-11-kvly.png" group-title="USA TV", NBC 11 (KVLY) Fargo
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115718
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/ohio-flag-small.png" group-title="USA TV", @@ OHIO @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114174
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-9-wcpo-us.png" group-title="USA TV", ABC 09 (WCPO) Cincinnati
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115720
@@ -2141,9 +2079,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114179
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 25 (WVIZ) Cleveland
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114180
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/oregon-flag-small.png" group-title="USA TV", @@ OREGON @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115342
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-2-katu-us.png" group-title="USA TV", ABC 02(KATU) Portland
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115320
 
@@ -2158,9 +2093,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115323
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 07 (KOPB) Portland
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115324
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/pennsylvania-flag-small.png" group-title="USA TV", @@ PENNSYLNANIA @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114109
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-6-wpvi-us.png" group-title="USA TV", ABC 06 (WPVI) Philadelphia
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114110
@@ -2201,9 +2133,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114121
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 13 (WQED) Pittsburgh
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114122
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/tennessee-flag-small.png" group-title="USA TV", @@ TENNESSEE @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115293
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-2-wkrn.png" group-title="USA TV", ABC 02 (WKRN) Nashville
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115294
 
@@ -2224,9 +2153,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115299
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS (WNPT)| Nashville
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115300
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/texas-flag-small.png" group-title="USA TV", @@ TEXAS @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114123
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-3-KIII.png" group-title="USA TV", ABC 03 (KIII) Corpus Christi
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115727
@@ -2297,9 +2223,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115706
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 08 (TV8) Houston
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115707
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/utah-flag-small.png" group-title="USA TV", @@ UTAH @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114181
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-4_KTVX_Logo.png" group-title="USA TV", ABC 04 (KTVX) Salt Lake City
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114182
 
@@ -2317,9 +2240,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/114186
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS 07(KUED) Salt Lake City
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114187
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/washington-flag-small.png" group-title="USA TV", @@ WASHINGTON @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/114130
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-4-komo-us.png" group-title="USA TV", ABC 04 (KOMO) Seattle
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114131
@@ -2354,9 +2274,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115327
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/nbc-6-khq-us.png" group-title="USA TV", NBC 06 (KHQ) Spokane
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115328
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/washington-dc-flag-small.png" group-title="USA TV", @@ WASHINGTON DC @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115301
-
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-7-wjla-us.png" group-title="USA TV", ABC 07 (WJLA) Washington DC
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115302
 
@@ -2374,9 +2291,6 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115306
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS Washington DC
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115307
-
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/wisconsin-flag-small.png" group-title="USA TV", @@ WISCONSIN @@
-http://ourlink.vip:7777/Mark989/HGDEERTTD/115308
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/abc-12-wisn-us.png" group-title="USA TV", ABC 12 (WISN) Milwaukee
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115309
