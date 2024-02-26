@@ -1178,7 +1178,7 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/112489
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/world-fishing-network-us.png" group-title="USA TV", World Fishing Network
 http://ourlink.vip:7777/Mark989/HGDEERTTD/112490
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/5-usa-uk.png" group-title="UK Entertainment", 5 USA
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/5-usa-uk.png" group-title="USA TV", 5 USA
 http://ourlink.vip:7777/Mark989/HGDEERTTD/112627
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/cinemax-5-starmax-us.png" group-title="USA TV", 5 StarMAX
@@ -1628,7 +1628,7 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/113160
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/weathernation2.us.png" group-title="USA TV", WEATHER NATION
 http://ourlink.vip:7777/Mark989/HGDEERTTD/113161
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/5-usa-plus-uk.png" group-title="UK +1", 5USA+1
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-kingdom/5-usa-plus-uk.png" group-title="USA TV", 5USA+1
 http://ourlink.vip:7777/Mark989/HGDEERTTD/114459
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Flags/alabama-flag-small.png" group-title="USA TV", @@ ALABAMA @@
@@ -2615,10 +2615,10 @@ http://ourlink.vip:7777/Mark989/HGDEERTTD/115314
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/Locals/pbs.png" group-title="USA TV", PBS (WMVS) Milwaukee
 http://ourlink.vip:7777/Mark989/HGDEERTTD/115315
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="CARIBBEAN", CAR: USA Network
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="USA TV", CAR: USA Network
 http://ourlink.vip:7777/Mark989/HGDEERTTD/120179
 
-#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-classic-us.png" group-title="ESPN (MIX)", (US) ESPN Classic
+#EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/espn-classic-us.png" group-title="USA TV", (US) ESPN Classic
 http://ourlink.vip:7777/Mark989/HGDEERTTD/111933
 
 #EXTINF:-1 tvg-logo="http://163.172.89.228/~msepg/logos/united-states/fox-soccer-plus-us.png" group-title="USA Sports", Fox Sports Soccer+
