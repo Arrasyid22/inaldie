@@ -5500,6 +5500,16 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1922&extensi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", FOX SOCCER PLUS
 http://vp-txpro.com:80/Bb58/Wddrf/52047
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", FOX SPORT 1 LT
+http://vp-txpro.com:80/Bb58/Wddrf/53973
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", FOX SPORT 2 LT
+http://vp-txpro.com:80/Bb58/Wddrf/53974
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", FOX SPORT 3 LT
+http://vp-txpro.com:80/Bb58/Wddrf/53975
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", FOX SPORT RACING
+http://vp-txpro.com:80/Bb58/Wddrf/54929
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", DAZN UFC
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1732309&extension=ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="SPORT DUNIA (1 RESO)", DAZN CA
