@@ -51,6 +51,13 @@ http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519360&exte
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA2s0wB_aknuLfs4mQw_r0fsaaEjTq--c6FI5PCc766JWSbZ1lE-rqBbmV&s=10" group-title="ESPN +", ESPN PLUS 01:
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=1519359&extension=ts
 
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", MY: ASTRO SUPERSPORT 3 HD
+http://448423666286770769.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/770769.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", MY: ASTRO SUPERSPORT 4 HD
+http://448423666286780497.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/780497.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 1
 http://mykingtv.net:2082/nm5039/WpjMc2KeftRW/8416
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORT", ASTRO SUPERSPORT 2
@@ -1426,9 +1433,6 @@ http://448423666286768376.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/768376.ts
 #EXTINF:-1 tvg-logo="http://Tigerbox.nl:2086/images/67e9154ec5f3d7a099ba094e1d427bb2.png" group-title="SVIP SPORTS", [UK] VIAPLAY SPORTS 2 FHD
 http://448423666286769498.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/769498.ts
 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="SVIP SPORTS", MY: ASTRO SUPERSPORT 3 SD
-http://448423666286770769.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/770769.ts
-
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2370076885bf3c96a4e14c15ceba0409.png" group-title="SVIP SPORTS", PL: POLSAT SPORT PREMIUM 4 FHD
 http://448423666286770771.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/770771.ts
 
@@ -1512,9 +1516,6 @@ http://448423666286780494.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/780494.ts
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SVIP SPORTS", IT: SKY SPORT UNO HD
 http://448423666286780495.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/780495.ts
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="SVIP SPORTS", MY: ASTRO SUPERSPORT 4 FHD
-http://448423666286780497.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/780497.ts
 
 #EXTINF:-1 tvg-logo="http://iptv.4ktezz.top:25461/images/d4e3d05644de38322d9434c693b99ca9.png" group-title="SVIP SPORTS", PK: PTV SPORTS SD
 http://448423666286780505.0222ofd.xyz:80/play/YACCO5/XYZ999TTYY33/780505.ts
