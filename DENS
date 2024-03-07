@@ -6,9 +6,6 @@ https://github.com/Arrasyid22/inaldie/raw/main/LOGO.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="#####♦ISI CHANNEL ±5000♦#####", DONASI ke https://saweria.co/Inaldie22
 https://github.com/Arrasyid22/inaldie/raw/main/DONATE.ts
 
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS", beIN
-https://raw.githubusercontent.com/Arrasyid22/sportlatin/main/tiger.m3u8
-
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="BEIN SPORTS", beIN-SPORTS HD1
 http://new.ivue.co:25461/play/live.php?mac=00:1A:79:D4:AF:48&stream=2591&extension=ts
 
