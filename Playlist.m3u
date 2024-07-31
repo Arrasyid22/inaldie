@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1 ch-number="23" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SCTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arrasyid22.github.io/inaldie/SCTV.m3u8
+#EXTINF:-1 ch-number="24" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",INDOSIAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arrasyid22.github.io/inaldie/Indosiar.m3u8
+#EXTINF:-1 ch-number="123" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MOJI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arrasyid22.github.io/inaldie/Moji.m3u8
+#EXTINF:-1 ch-number="124" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MENTARI HD
+https://arrasyid22.github.io/inaldie/MentariTV.m3u8
+#EXTINF:-1 ch-number="125" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",KOMPASTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/KompasTV.m3u8
+#EXTINF:-1 ch-number="25" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RTV HD1
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/RTV.m3u8
+#EXTINF:-1 ch-number="32" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RTV HD2
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/RTVCikarang.m3u8
+#EXTINF:-1 ch-number="128" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",BTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/BTV.m3u8
+#EXTINF:-1 ch-number="33" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CTV
+https://arrasyid22.github.io/inaldie/CTV.m3u8
+#EXTINF:-1 ch-number="127" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",KTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arrasyid22.github.io/inaldie/KTV.m3u8
+#EXTINF:-1 ch-number="28" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",RCTI HD
+https://arrasyid22.github.io/inaldie/RCTI.m3u8
+#EXTINF:-1 ch-number="29" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MNCTV HD
+https://arrasyid22.github.io/inaldie/MNCTV.m3u8
+#EXTINF:-1 ch-number="30" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",GTV HD
+https://arrasyid22.github.io/inaldie/GTV.m3u8
+#EXTINF:-1 ch-number="31" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",iNews HD
+https://arrasyid22.github.io/inaldie/iNews.m3u8
+#EXTINF:-1 ch-number="22" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",METRO TV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/MetroTV.m3u8
+#EXTINF:-1 ch-number="100" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",MAGNA CHANNEL
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/MagnaChannel.m3u8
+#EXTINF:-1 ch-number="101" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",BN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/BNChannel.m3u8
+#EXTINF:-1 ch-number="102" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",JPMTV
+https://arrasyid22.github.io/inaldie/JPMTV.m3u8
+#EXTINF:-1 ch-number="103" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",GARUDA TV HD
+https://arrasyid22.github.io/inaldie/GarudaTV.m3u8
+#EXTINF:-1 ch-number="104" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SMILE TV
+https://arrasyid22.github.io/inaldie/SmileTV.m3u8
+#EXTINF:-1 ch-number="105" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",UGTV
+https://arrasyid22.github.io/inaldie/UGTV.m3u8
+#EXTINF:-1 ch-number="27" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVONE HD
+https://arrasyid22.github.io/inaldie/tvOne.m3u8
+#EXTINF:-1 ch-number="26" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",ANTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/ANTV.m3u8
+#EXTINF:-1 ch-number="36" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",VTV HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/VTV.m3u8
+#EXTINF:-1 ch-number="19" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",NET. HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/NET.m3u8
+#EXTINF:-1 ch-number="115" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",JAKTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arrasyid22.github.io/inaldie/JakTV.m3u8
+#EXTINF:-1 ch-number="116" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",BETAWI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arrasyid22.github.io/inaldie/BetawiTV.m3u8
+#EXTINF:-1 ch-number="117" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",JawaposTV
+https://arrasyid22.github.io/inaldie/JawaPosTVJakarta.m3u8
+#EXTINF:-1 ch-number="118" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",SIN PO tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arrasyid22.github.io/inaldie/SinPoTV.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",EWS
+http://op-group1-swiftservehd-1.dens.tv/h/h46/S4/mnf.m3u8
+#EXTINF:-1 ch-number="20" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TRANS TV HD
+https://arrasyid22.github.io/inaldie/TransTV.m3u8
+#EXTINF:-1 ch-number="21" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TRANS 7 HD
+https://arrasyid22.github.io/inaldie/Trans7.m3u8
+#EXTINF:-1 ch-number="40" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CNN INDONESIA HD
+https://arrasyid22.github.io/inaldie/CNNIndonesia.m3u8
+#EXTINF:-1 ch-number="41" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",CNBC INDONESIA HD
+https://arrasyid22.github.io/inaldie/CNBCIndonesia.m3u8
+#EXTINF:-1 ch-number="19" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",NET. HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/NET.m3u8
+#EXTINF:-1 ch-number="1" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI Nasional
+https://arrasyid22.github.io/inaldie/TVRI.m3u8
+#EXTINF:-1 ch-number="2" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI DKI HD
+https://arrasyid22.github.io/inaldie/TVRIJakarta.m3u8
+#EXTINF:-1 ch-number="3" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI WORLD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/TVRIWorld.m3u8
+#EXTINF:-1 ch-number="4" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",TVRI Sport HD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://arrasyid22.github.io/inaldie/TVRISport.m3u8
+#EXTINF:-1 ch-number="5" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",DAAI tv
+https://arrasyid22.github.io/inaldie/DAAITV.m3u8
+#EXTINF:-1 ch-number="7" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",tv MU
+https://arrasyid22.github.io/inaldie/tvMu.m3u8
+#EXTINF:-1 ch-number="8" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",Nusantara TV
+https://arrasyid22.github.io/inaldie/NusantaraTV.m3u8
+#EXTINF:-1 ch-number="9" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",Inspira_TV
+https://arrasyid22.github.io/inaldie/InspiraTV.m3u8
+#EXTINF:-1 ch-number="10" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",ELSHINTA TV
+https://arrasyid22.github.io/inaldie/ElshintaTV.m3u8
+#EXTINF:-1 ch-number="12" tvg-logo="https://dl.dropbox.com/s/um8mxc1tj0l5h5x/1688547907912.png?dl=0",BRTV
+https://arrasyid22.github.io/inaldie/BRTV.m3u8
